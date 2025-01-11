@@ -3,12 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\nazli\\source\\repos\\FinancialCrm\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{7865FE27-245D-4BBF-952B-7F097F9D8F11}|FinancialCrm.csproj|C:\\Users\\nazli\\source\\repos\\FinancialCrm\\frmbanks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7865FE27-245D-4BBF-952B-7F097F9D8F11}|FinancialCrm.csproj|solutionrelative:frmbanks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{7865FE27-245D-4BBF-952B-7F097F9D8F11}|FinancialCrm.csproj|c:\\users\\nazli\\source\\repos\\financialcrm\\frmbanks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{7865FE27-245D-4BBF-952B-7F097F9D8F11}|FinancialCrm.csproj|solutionrelative:frmbanks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7865FE27-245D-4BBF-952B-7F097F9D8F11}|FinancialCrm.csproj|c:\\users\\nazli\\source\\repos\\financialcrm\\frmdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{7865FE27-245D-4BBF-952B-7F097F9D8F11}|FinancialCrm.csproj|solutionrelative:frmdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{7865FE27-245D-4BBF-952B-7F097F9D8F11}|FinancialCrm.csproj|c:\\users\\nazli\\source\\repos\\financialcrm\\frmbilling.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7865FE27-245D-4BBF-952B-7F097F9D8F11}|FinancialCrm.csproj|solutionrelative:frmbilling.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7865FE27-245D-4BBF-952B-7F097F9D8F11}|FinancialCrm.csproj|c:\\users\\nazli\\source\\repos\\financialcrm\\frmbilling.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7865FE27-245D-4BBF-952B-7F097F9D8F11}|FinancialCrm.csproj|solutionrelative:frmbilling.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -37,27 +45,57 @@
               "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "FrmBanks.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\nazli\\source\\repos\\FinancialCrm\\FrmBanks.cs",
-              "RelativeDocumentMoniker": "FrmBanks.cs",
-              "ToolTip": "C:\\Users\\nazli\\source\\repos\\FinancialCrm\\FrmBanks.cs [Design]*",
-              "RelativeToolTip": "FrmBanks.cs [Design]*",
+              "DocumentIndex": 2,
+              "Title": "FrmBilling.cs",
+              "DocumentMoniker": "C:\\Users\\nazli\\source\\repos\\FinancialCrm\\FrmBilling.cs",
+              "RelativeDocumentMoniker": "FrmBilling.cs",
+              "ToolTip": "C:\\Users\\nazli\\source\\repos\\FinancialCrm\\FrmBilling.cs",
+              "RelativeToolTip": "FrmBilling.cs",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAvwF8AAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-07T15:19:14.232Z",
+              "WhenOpened": "2025-01-11T11:45:21.437Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FrmBilling.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\nazli\\source\\repos\\FinancialCrm\\FrmBilling.cs",
+              "RelativeDocumentMoniker": "FrmBilling.cs",
+              "ToolTip": "C:\\Users\\nazli\\source\\repos\\FinancialCrm\\FrmBilling.cs [Design]",
+              "RelativeToolTip": "FrmBilling.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-11T11:01:27.69Z",
               "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "FrmDashboard.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\nazli\\source\\repos\\FinancialCrm\\FrmDashboard.cs",
-              "RelativeDocumentMoniker": "FrmDashboard.cs",
-              "ToolTip": "C:\\Users\\nazli\\source\\repos\\FinancialCrm\\FrmDashboard.cs [Design]",
-              "RelativeToolTip": "FrmDashboard.cs [Design]",
+              "DocumentIndex": 0,
+              "Title": "FrmBanks.cs",
+              "DocumentMoniker": "C:\\Users\\nazli\\source\\repos\\FinancialCrm\\FrmBanks.cs",
+              "RelativeDocumentMoniker": "FrmBanks.cs",
+              "ToolTip": "C:\\Users\\nazli\\source\\repos\\FinancialCrm\\FrmBanks.cs",
+              "RelativeToolTip": "FrmBanks.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAvwC4AAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-07T13:48:35.483Z",
+              "WhenOpened": "2025-01-10T20:07:48.678Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FrmBanks.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\nazli\\source\\repos\\FinancialCrm\\FrmBanks.cs",
+              "RelativeDocumentMoniker": "FrmBanks.cs",
+              "ToolTip": "C:\\Users\\nazli\\source\\repos\\FinancialCrm\\FrmBanks.cs [Design]",
+              "RelativeToolTip": "FrmBanks.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T15:19:14.232Z",
               "EditorCaption": " [Design]"
             }
           ]

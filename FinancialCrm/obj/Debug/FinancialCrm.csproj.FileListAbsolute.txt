@@ -9,3 +9,9 @@ C:\Users\nazli\source\repos\FinancialCrm\obj\Debug\FinancialCrm.csproj.GenerateR
 C:\Users\nazli\source\repos\FinancialCrm\obj\Debug\FinancialCrm.csproj.CoreCompileInputs.cache
 C:\Users\nazli\source\repos\FinancialCrm\obj\Debug\FinancialCrm.exe
 C:\Users\nazli\source\repos\FinancialCrm\obj\Debug\FinancialCrm.pdb
+C:\Users\nazli\source\repos\FinancialCrm\bin\Debug\EntityFramework.dll
+C:\Users\nazli\source\repos\FinancialCrm\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\nazli\source\repos\FinancialCrm\bin\Debug\EntityFramework.xml
+C:\Users\nazli\source\repos\FinancialCrm\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\nazli\source\repos\FinancialCrm\obj\Debug\Financia.1DE9CF8F.Up2Date
+C:\Users\nazli\source\repos\FinancialCrm\obj\Debug\FinancialCrm.FrmBilling.resources
